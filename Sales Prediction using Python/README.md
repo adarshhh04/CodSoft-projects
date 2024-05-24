@@ -9,12 +9,12 @@ The aim of this project is to predict sales based on advertising expenditure usi
 # Libraries Used
 The following important libraries were used for this project:
 
-numpy
-pandas
-matplotlib.pyplot
-seaborn
-sklearn.model_selection.train_test_split
-sklearn.linear_model.LinearRegression
+- numpy   
+- pandas   
+- matplotlib.pyplot   
+- seaborn   
+- sklearn.model_selection.train_test_split   
+- sklearn.linear_model.LinearRegression   
 
 # Dataset
 The dataset was loaded using pandas as a DataFrame from the file "advertising.csv".

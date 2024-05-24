@@ -11,13 +11,13 @@ The dataset for this project is imported from a CSV file, "archive.zip". The dat
 # Libraries Used
 The following important libraries were used for this project:
 
-numpy
-pandas
-matplotlib.pyplot
-seaborn
-sklearn.preprocessing.LabelEncoder
-sklearn.model_selection.train_test_split
-sklearn.linear_model.LogisticRegression
+- numpy     
+- pandas   
+- matplotlib.pyplot   
+- seaborn   
+- sklearn.preprocessing.LabelEncoder   
+- sklearn.model_selection.train_test_split   
+- sklearn.linear_model.LogisticRegression   
 
 # Data Exploration and Preprocessing
 The dataset was loaded using pandas as a DataFrame, and its shape and a glimpse of the first 10 rows were displayed using df.shape and df.head(10).

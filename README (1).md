@@ -5,6 +5,8 @@ Domain: Data Science
 
 Welcome to the CodSoft Data Science Internship Internship repository! In this one-month internship, you will dive into the world of data Science, where you'll have the opportunity to work on various projects. Let's explore what this internship has to offer.
 
+# Repository Link:-  https://github.com/adarshhh04/CodSoft-projects    
+
 #  Tools
 For the tasks in this internship, we primarily use Python, a versatile programming language known for its data Science capabilities. Here's how Python is used in this internship:
 
